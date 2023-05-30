@@ -1,7 +1,7 @@
 # Network_Projects
 
 
-Rock-paper-scissors is a game played between two people, where each player simultaneously chooses one option from three available choices: rock, paper, or scissors. The objective is to select the option that beats the opponent:
+*1. Rock-paper-scissors is a game played between two people, where each player simultaneously chooses one option from three available choices: rock, paper, or scissors. The objective is to select the option that beats the opponent:
 
     Rock beats scissors
     Scissors beat paper
@@ -13,5 +13,5 @@ Rock-paper-scissors is a popular game used to make decisions or settle disputes 
 
 Additionally, I have created a graphical user interface (GUI) for the game, which you can see in the included screenshot below. Have fun playing!
 
-Simple chat is a chat between client and server based on socket programming
+*2. Simple chat is a chat between client and server based on socket programming
 
