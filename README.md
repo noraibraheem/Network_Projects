@@ -22,3 +22,4 @@ Additionally, I have created a graphical user interface (GUI) for the game, whic
     The goal is to be the first to form a line of three of their symbols either horizontally, vertically, or diagonally.
 
 *5 concurrent chat gui
+*6 time server
